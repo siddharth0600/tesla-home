@@ -23,9 +23,9 @@ function App() {
           backgroundImg={SolarPanels}
           leftBtnTxt="Order Now"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnTxt="Learn More"
           rightBtnLink=""
-          twoButtons="true"
+          twoButtons={true}
           first
         />
         <Item
@@ -35,7 +35,7 @@ function App() {
           backgroundImg={ModelS}
           leftBtnTxt="Custom Order"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnTxt="Learn More"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -46,7 +46,7 @@ function App() {
           backgroundImg={Model3}
           leftBtnTxt="Custom Order"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnTxt="Learn More"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -57,7 +57,7 @@ function App() {
           backgroundImg={ModelX}
           leftBtnTxt="Custom Order"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnTxt="Learn More"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -68,7 +68,7 @@ function App() {
           backgroundImg={ModelY}
           leftBtnTxt="Custom Order"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnTxt="Learn More"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -79,7 +79,7 @@ function App() {
           backgroundImg={SolarRoof}
           leftBtnTxt="Order Now"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnTxt="Learn More"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -90,7 +90,7 @@ function App() {
           backgroundImg={Accessories}
           leftBtnTxt="Shop Now"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnTxt="Learn More"
           rightBtnLink=""
           twoButtons="true"
         />
